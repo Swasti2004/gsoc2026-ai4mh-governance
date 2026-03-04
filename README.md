@@ -17,13 +17,13 @@ AI4MH monitors aggregated public sentiment across Alabama counties to detect eme
 health and substance use crises *before* they appear in hospital admissions data.
 
 The 2025 GSoC prototype built the data ingestion, BERT-based risk classification, and sentiment
-analysis pipeline. **This repository implements the governance layer** — the logic that determines
+analysis pipeline. **This repository implements the governance layer** the logic that determines
 whether a signal is trustworthy enough to escalate to a human reviewer, and ensures that every
 decision the system makes is transparent, auditable, and bias-aware.
 
 > The system's north star: **a trend intelligence tool for public health decision-makers.**
-> Not an AI that identifies at-risk individuals. Not a system that acts autonomously.
-> A tool that hands a clearly reasoned signal — with uncertainty attached — to a human who decides.
+> Not an AI that identifies at risk individuals. Not a system that acts autonomously.
+> A tool that hands a clearly reasoned signal with uncertainty attached  to a human who decides.
 
 ---
 
