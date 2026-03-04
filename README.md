@@ -17,13 +17,13 @@ AI4MH monitors aggregated public sentiment across Alabama counties to detect eme
 health and substance use crises *before* they appear in hospital admissions data.
 
 The 2025 GSoC prototype built the data ingestion, BERT-based risk classification, and sentiment
-analysis pipeline. **This repository implements the governance layer** the logic that determines
+analysis pipeline. **This repository implements the governance layer** — the logic that determines
 whether a signal is trustworthy enough to escalate to a human reviewer, and ensures that every
 decision the system makes is transparent, auditable, and bias-aware.
 
 > The system's north star: **a trend intelligence tool for public health decision-makers.**
-> Not an AI that identifies at risk individuals. Not a system that acts autonomously.
-> A tool that hands a clearly reasoned signal with uncertainty attached  to a human who decides.
+> Not an AI that identifies at-risk individuals. Not a system that acts autonomously.
+> A tool that hands a clearly reasoned signal — with uncertainty attached — to a human who decides.
 
 ---
 
@@ -97,10 +97,11 @@ any intervention action is taken.
 ## Project Structure
 
 ```
-ai4mh-governance/
+gsoc2026-ai4mh-governance/
 ├── README.md               ← You are here
 ├── requirements.txt        ← Python dependencies
 ├── config.py               ← All thresholds and constants in one place
+├── walkthrough.ipynb       ← End-to-end interactive walkthrough
 ├── .gitignore
 │
 ├── ai4mh/                  ← Core package
@@ -127,8 +128,8 @@ ai4mh-governance/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai4mh-governance.git
-cd ai4mh-governance
+git clone https://github.com/Swasti2004/gsoc2026-ai4mh-governance.git
+cd gsoc2026-ai4mh-governance
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -142,6 +143,9 @@ python -m ai4mh.pipeline
 
 # 5. Run tests
 python -m pytest tests/ -v
+
+# 6. Open the walkthrough notebook
+jupyter notebook walkthrough.ipynb
 ```
 
 ---
@@ -155,6 +159,7 @@ python -m pytest tests/ -v
 | Media spike detection | ✅ Complete | Temporal pattern + linguistic register |
 | Rural sparse data handling | ✅ Complete | Tiered thresholds + dedicated queue |
 | Audit logging | ✅ Complete | Immutable JSON records |
+| End-to-end walkthrough | ✅ Complete | Jupyter notebook with visible outputs |
 | Sentiment layer | ✅ VADER (MVP) | BERT integration planned — see roadmap |
 | Dashboard UI | 🔜 Roadmap | Plotly Dash planned |
 | Real Reddit API | 🔜 Roadmap | PRAW integration planned |
@@ -190,6 +195,16 @@ This project builds directly on the [GSoC 2025 AI4MH prototype](https://github.c
 by Yixing (Spark) Fan and Vishnu Sankhyan, supervised by David M. White at ISSR, University of Alabama.
 The 2025 team built the BERT classifier, VADER sentiment pipeline, and unified crisis dataset that
 this governance layer is designed to operate on top of.
+
+---
+
+## 👩‍💻 Author
+
+- **Name:** Swasti Jain
+- **Email:** [jainswasti240@gmail.com](mailto:jainswasti240@gmail.com)
+- **LinkedIn:** [linkedin.com/in/swasti-jain2004](https://www.linkedin.com/in/swasti-jain2004/)
+- **GitHub:** [github.com/Swasti2004](https://github.com/Swasti2004)
+- **For GSoC 2026**
 
 ---
 
