@@ -1,0 +1,59 @@
+post_id,account_id,text,timestamp,county_fips,account_age_days,account_karma
+jeff_001,user_0001,I can't do this anymore. Everything feels hopeless and I don't see a way out.,2026-03-01 10:00:00,01073,365,500
+jeff_002,user_0002,Been having really dark thoughts lately. Can't sleep can't eat. I'm exhausted.,2026-03-01 12:00:00,01073,720,1200
+jeff_003,user_0003,I don't want to be here anymore. The pain is too much.,2026-03-01 14:00:00,01073,180,300
+jeff_004,user_0004,Feeling so depressed. I've lost the will to keep going.,2026-03-01 16:00:00,01073,900,2000
+jeff_005,user_0005,I'm so done with everything. I just want it to stop.,2026-03-01 18:00:00,01073,450,800
+jeff_006,user_0006,Nobody understands what I'm going through. I feel completely alone.,2026-03-01 20:00:00,01073,600,1500
+jeff_007,user_0007,I've been thinking about ending it. I don't know what to do.,2026-03-01 22:00:00,01073,240,400
+jeff_008,user_0008,Can't stop crying. I feel worthless and like a burden to everyone.,2026-03-02 00:00:00,01073,1200,3000
+jeff_009,user_0009,The darkness is closing in. I can't fight it anymore.,2026-03-02 02:00:00,01073,360,600
+jeff_010,user_0010,I'm struggling so much. I need help but don't know where to turn.,2026-03-02 04:00:00,01073,800,1800
+jeff_011,user_0011,Every day feels like a battle I'm losing. I'm so tired.,2026-03-02 06:00:00,01073,550,900
+jeff_012,user_0012,I feel like disappearing. No one would even notice.,2026-03-02 08:00:00,01073,420,700
+jeff_013,user_0013,Things have gotten so bad. I don't see a future for myself.,2026-03-02 10:00:00,01073,310,500
+jeff_014,user_0014,I'm losing hope. I don't know how much longer I can keep going.,2026-03-02 12:00:00,01073,680,1100
+jeff_015,user_0015,The pain never stops. I just want peace.,2026-03-02 14:00:00,01073,200,350
+jeff_016,user_0016,I feel empty inside. Nothing brings me joy anymore.,2026-03-02 16:00:00,01073,750,1400
+jeff_017,user_0017,I've been isolating myself. I can't face anyone.,2026-03-02 18:00:00,01073,480,850
+jeff_018,user_0018,My mind won't stop. Dark thoughts all day long.,2026-03-02 20:00:00,01073,920,2100
+jeff_019,user_0019,I'm scared of my own thoughts. I need someone to talk to.,2026-03-02 22:00:00,01073,340,580
+jeff_020,user_0020,Everything is falling apart and I can't hold it together.,2026-03-03 00:00:00,01073,610,1050
+jeff_021,user_0021,I wake up every morning wishing I hadn't.,2026-03-03 02:00:00,01073,270,420
+jeff_022,user_0022,I'm carrying so much pain alone. I can't do this anymore.,2026-03-03 04:00:00,01073,830,1700
+jeff_023,user_0023,Life feels unbearable. I don't know how to keep going.,2026-03-03 06:00:00,01073,390,650
+jeff_024,user_0024,I feel like a burden to everyone around me. Maybe it's better if I wasn't here.,2026-03-03 08:00:00,01073,510,880
+jeff_025,user_0025,I've stopped eating and sleeping properly. I'm falling apart.,2026-03-03 10:00:00,01073,445,760
+jeff_026,user_0001,I reached out to a crisis line last night. Still struggling.,2026-03-03 12:00:00,01073,365,501
+jeff_027,user_0002,Another sleepless night. The depression is overwhelming.,2026-03-03 14:00:00,01073,720,1201
+jeff_028,user_0003,I told my friend how I was feeling. They didn't understand.,2026-03-03 16:00:00,01073,180,301
+jeff_029,user_0004,Tried to go outside today. Couldn't make it past the door.,2026-03-03 18:00:00,01073,900,2001
+jeff_030,user_0005,I don't know who I am anymore. Everything feels pointless.,2026-03-03 20:00:00,01073,450,801
+mad_001,user_1001,Did you hear about the mental health crisis reported in the news today? So sad.,2026-03-03 08:00:00,01089,500,900
+mad_002,user_1002,Breaking news: mental health crisis reported locally. Have you seen this?,2026-03-03 09:00:00,01089,800,1500
+mad_003,user_1003,According to the article there's been an increase in mental health issues.,2026-03-03 10:00:00,01089,1200,2200
+mad_004,user_1004,They said in the report that this is a growing problem in our community.,2026-03-03 11:00:00,01089,650,1100
+mad_005,user_1005,Have you read the story about the mental health crisis? It's alarming.,2026-03-03 12:00:00,01089,400,700
+mad_006,user_1006,The news story today about depression is really eye-opening.,2026-03-03 13:00:00,01089,900,1800
+mad_007,user_1007,Story about local mental health struggles trending on social media today.,2026-03-03 14:00:00,01089,300,500
+mad_008,user_1008,Did anyone else see that news report about the crisis hotline calls?,2026-03-03 15:00:00,01089,1500,3000
+mad_009,user_1009,Reporting on the mental health story that's been going around today.,2026-03-03 16:00:00,01089,700,1300
+mad_010,user_1010,According to experts quoted in the article the situation is worsening.,2026-03-03 17:00:00,01089,550,950
+mad_011,user_1011,They are reporting a rise in crisis calls. Did you see the article?,2026-03-03 18:00:00,01089,420,720
+mad_012,user_1012,The report says mental health services are overwhelmed. So concerning.,2026-03-03 19:00:00,01089,880,1600
+mad_013,user_1013,Have you heard about the new mental health statistics released today?,2026-03-03 20:00:00,01089,320,540
+mad_014,user_1014,Breaking story about suicide prevention awareness making rounds today.,2026-03-03 21:00:00,01089,1100,2100
+mad_015,user_1015,Did you read about the mental health funding cuts? Article is shocking.,2026-03-03 22:00:00,01089,600,1050
+mad_016,user_1016,According to the news piece this county has seen a spike in crisis calls.,2026-03-03 23:00:00,01089,750,1400
+mad_017,user_1017,They reported on the mental health crisis at the town hall last night.,2026-03-04 00:00:00,01089,480,840
+mad_018,user_1018,Have you seen the story circulating about local mental health services?,2026-03-04 01:00:00,01089,920,1750
+mad_019,user_1019,Breaking: new report on depression rates in Alabama released today.,2026-03-04 02:00:00,01089,360,620
+mad_020,user_1020,The article says community awareness events are being planned. Good news.,2026-03-04 03:00:00,01089,1300,2500
+low_001,user_2001,I'm not doing well. Really struggling out here and there's nowhere to go.,2026-03-02 10:00:00,01085,400,200
+low_002,user_2002,Feeling real low. Nothing seems worth it anymore.,2026-03-02 14:00:00,01085,600,350
+low_003,user_2003,Been a hard week. Can't shake this feeling of hopelessness.,2026-03-02 18:00:00,01085,250,120
+low_004,user_2004,I'm hurting bad and don't know who to talk to.,2026-03-02 22:00:00,01085,800,450
+low_005,user_2005,Things are real dark right now. I need help.,2026-03-03 02:00:00,01085,350,180
+low_006,user_2006,I don't know how much longer I can keep going like this.,2026-03-03 06:00:00,01085,500,280
+low_007,user_2007,Crying all day again. I'm so tired of feeling this way.,2026-03-03 10:00:00,01085,700,400
+low_008,user_2008,I feel like giving up. Everything is too hard.,2026-03-03 14:00:00,01085,450,240
