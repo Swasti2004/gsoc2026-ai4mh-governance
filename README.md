@@ -8,7 +8,9 @@
 > **GSoC 2026 Contributor Selection Task** — This repository was built as part of the selection process for the AI4MH project under HumanAI / ISSR, University of Alabama.
 
 **Organization:** Institute for Social Science Research (ISSR), University of Alabama  
+
 **Mentors:** David M. White, MPH, MPA & Dr. Andrea Underhill
+
 **Project:** AI-Powered Behavioral Analysis for Suicide Prevention & Mental Health Crisis Detection
 
 ---
