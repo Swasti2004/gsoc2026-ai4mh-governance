@@ -173,7 +173,7 @@ def run_pipeline(data_path: str = "data/sample_posts.csv",
     print("  Mental Health Crisis Signal Evaluation")
     print("="*65)
 
-    window_start = datetime.utcnow() - timedelta(hours=config.ANALYSIS_WINDOW_HOURS)
+    window_start = datetime.now(datetime.UTC) - timedelta(hours=config.ANALYSIS_WINDOW_HOURS)
     logger = AuditLogger(audit_path)
     results = []
 
