@@ -79,7 +79,9 @@ jupyter notebook walkthrough.ipynb
 
 ## Acknowledgements
 
-Built on the [GSoC 2025 prototype](https://github.com/SparkFan626/GSoC2025_HumanAI_AI_Behavioral_Analysis_Demo) by Yixing (Spark) Fan, supervised by David M. White at ISSR, University of Alabama.
+
+This project builds directly on the [GSoC 2025 AI4MH prototype](https://github.com/SparkFan626/gsoc2025-ai4mh)
+by Yixing (Spark) Fan and Vishnu Sankhyan, supervised by David M. White at ISSR, University of Alabama.
 
 ---
 
@@ -92,5 +94,4 @@ Built on the [GSoC 2025 prototype](https://github.com/SparkFan626/GSoC2025_Human
 - **For GSoC 2026**
 
 ---
-
-MIT License
+MIT License — see [LICENSE](LICENSE)
